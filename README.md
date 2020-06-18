@@ -1,4 +1,6 @@
-# Desafio 02 do Bootcamp Rocketseat
+# Desafio 03 do Bootcamp Rocketseat
+
+### Linguagem: Javascript (ReactJs)
 
 Para rodar:
 
@@ -8,4 +10,4 @@ Instalar dependências.
 
 Iniciar servidor.
 
-2. ```yarn dev```
+2. ```yarn start```
