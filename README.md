@@ -3,7 +3,9 @@
 Para rodar:
 
 Instalar dependências.
-1. yarn
+
+1. ```yarn```
 
 Iniciar servidor.
-2. yarn dev
+
+2. ```yarn dev```
